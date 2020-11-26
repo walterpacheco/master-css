@@ -5,6 +5,32 @@
 /* con este selector selecciono todos los elementos del html*/
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 0px;
-    padding: 0px;
 }
+
+/*Selector de etiqueta*/
+h1{
+    background: red;
+    color: white;
+    padding: 10px;
+
+}
+a{
+    font-size: 18px;
+    color: green;
+    text-decoration: none;
+}
+/*Selector compuesto*/
+footer a{
+    color: red;
+}
+
+
+/*Selector de identificador "id"*/
+
+#descripcion{
+
+}
+
+/*Selector de clase*/
+
+/*Selector de atributo*/
