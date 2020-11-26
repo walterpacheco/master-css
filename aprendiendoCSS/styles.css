@@ -1,10 +1,10 @@
-body{
-    background: gray;
-}
-h1{ 
-    color: red;
-    font-size: 50px;
-    text-shadow: 0px 0px 10px black;
-    text-decoration: underline;
-
+/*
+######### SELECTORES ##########
+*/
+/*SELECTOR UNIVERSAL */
+/* con este selector selecciono todos los elementos del html*/
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
 }
