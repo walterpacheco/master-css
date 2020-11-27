@@ -77,3 +77,10 @@ input[type="submit"]{
     border: 1px solid black;
     cursor: pointer;
 }
+/*Selector hijo*/
+#menu >li > a{
+    font-size: 18px;
+    color: red;
+    text-decoration: none;
+}
+
